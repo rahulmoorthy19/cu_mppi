@@ -1,1 +1,2 @@
-# cu_mppi
+# CU-MPPI
+CU-MPPI Trajectory Sampling
